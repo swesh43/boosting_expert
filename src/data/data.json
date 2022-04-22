@@ -1,0 +1,115 @@
+{
+  "Header": {
+    "title": "We are marketing Agency",
+    "paragraph": "Our expert team provides services like Facebook page promotion, post boosting & Instagram promotion. we have our boosting expert we can guide you through all these. Fell free to message us for any query"
+  },
+  "About": {
+    "paragraph": 
+    "Boosting expert is social media marketing agency. we provide services to clients based on their business need. we analyze clients business and create ads for facebook, youtube and google and help clients to make maximum number of sales and profits. Many of our clients are satisfised with our marketing services and still using it. Come and join Us next turn is yours.",
+    "Why": [
+      "Sale focused ads",
+      "Affordable Rate",
+      "No hidden charges",
+      "100% customer need fulfillment"
+    ],
+    "Why2": [
+      "More than 600+ ads promoted",
+      "Discount for regular customer",
+      "Ads creation and ads design",
+      "Fast service"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Band Baja Jhankar",
+      "largeImage": "img/portfolio/band1large.jpg",
+      "smallImage": "img/portfolio/band1small.jpg"
+    },
+ 
+    {
+      "title": "ktm mart online, special masu ko achar, saguri construction pvt.ltd, A2Z sewa",
+      "largeImage": "img/portfolio/tes1small.png",
+      "smallImage": "img/portfolio/tes1large.png"
+    },
+    {
+      "title": "Rp technology solution pvt.ltd, Newlook fashion Nilopul, Wholesale baby nepal, Your choice",
+      "largeImage": "img/portfolio/tes2small.png",
+      "smallImage": "img/portfolio/tes2large.png"
+    }
+  
+  
+  
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-facebook",
+      "name": "Facebook Ads",
+      "text": "In facebook ads we analyze the clients facebook pages and runs targetd ads to get more messages & converstion,leads and sales"
+    },
+    {
+      "icon": "fa fa-instagram",
+      "name": "Instagram promotion",
+      "text": "we also focus on instagram to get sells and leads"
+    },
+    {
+      "icon": "fa fa-youtube",
+      "name": "Youtube Ads",
+      "text": "we create video ads according to clients business requirements and run targeted Ads on youtube"
+    },
+ 
+    {
+      "icon": "fa fa-google",
+      "name": "Google Ads",
+      "text": "we create ads for google and we will make your ads to appear on top when they search for your products or company"
+    }
+ 
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/bandbaja.png",
+      "text": "Jhankar Brass Band has become a name for itself. We have been able to achieve new heights in every passing year. Best Band Baja In Kathmandu. Thanks for boosting expert for handeling facebook our page running ads and helping us to book many marriage events",
+      "name": "Band Baja Jhankar"
+    },
+    {
+      "img": "img/testimonials/jewellary.png",
+      "text": "we make name locket, chain, brasclet, earing, finger ring by pure panchadhatu.Also we have gold plated jewellery .we will provide wholesale and retail also..we can provide delivery services in nepal. We really thank boosting expert for running facebook ads on our page and generating a lot sales for us.",
+      "name": "Your Choice jewellary"
+    },
+    {
+      "img": "img/testimonials/construction.png",
+      "text": "We are construction company who builts building for clients. I would like to thank boosting expert of giving us clients through facebook ads",
+      "name": "Saguri Construction pvt.ltd"
+    }
+  ],
+
+  "Contact": {
+    "address": "Tinkune, kathmandu Nepal",
+    "phone": "+9779845560461",
+    "email": "omkushwaha14@gmail.com",
+    "facebook": "https://www.facebook.com/boostingfb/"
+     
+  },
+  "Features": [
+  
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "100% customer satisfaction"
+    
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "150+ customers using our services."
+      
+    },
+    {
+      "icon": "fa fa-phone",
+      "title": "Business, tips for regular customers"
+       
+    },
+    {
+      "icon": "fa fa-star",
+      "title": "1 year of digital marketing experience"
+      
+    }
+  ]
+}
